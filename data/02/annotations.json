@@ -1,0 +1,377 @@
+{
+    "classes": [
+        "CHARGE_CANCEL",
+        "CANCELLATION_TIME",
+        "CHARGE_NOSHOW"
+    ],
+    "annotations": [
+        [
+            "CANCELLATIONS\r\nANY TIME\r\nCHARGE USD 300.00 FOR CANCEL.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n\r\nFOR ALL JOURNEYS BEFORE AFTER FIRST FLIGHT\r\nDEPARTURE  USD300\r\n\r\nAPPLICABLE FEES ARE TO BE CONVERTED INTO\r\nLOCAL CURRENCY AT THE BANKERS SELLING RATE.\r\n\r\nFEES ARE NOT APPLICABLE FOR INFANT WITHOUT A SEAT\r\n\r\nIN CASE OF TICKET UPGRADE THE ORIGINAL\r\nNONREFUNDABLE AMOUNT REMAINS NONREFUNDABLE.\r\n\r\nYR IS NONREFUNDABLE FOR ALL FARES.\r\n\r\nIN CASES OF NOSHOW CHARGE NO SHOW FEE OF USD300\r\nAND CANCELLATION FEE OF USD300 FOR CANCEL.\r\n\r\nFOR ANY CANCELLATIONS THE STRICTER FARE\r\nCONDITIONS WILL APPLY TO THE ENTIRE JOURNEY.\r\n\r\n\r\n\r\n",
+            {
+                "entities": [
+                    [
+                        0,
+                        23,
+                        "CANCELLATION_TIME"
+                    ],
+                    [
+                        25,
+                        54,
+                        "CHARGE_CANCEL"
+                    ],
+                    [
+                        458,
+                        486,
+                        "CHARGE_NOSHOW"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nCHARGE USD 200.00 FOR CANCEL.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n\r\nFOR ALL JOURNEYS BEFORE or AFTER FIRST FLIGHT\r\nDEPARTURE  USD200\r\n\r\nAPPLICABLE FEES ARE TO BE CONVERTED INTO\r\nLOCAL CURRENCY AT THE BANKERS SELLING RATE.\r\n\r\nFEES ARE NOT APPLICABLE FOR INFANT WITHOUT A SEAT\r\n\r\nIN CASE OF TICKET UPGRADE THE ORIGINAL\r\nNONREFUNDABLE AMOUNT REMAINS NONREFUNDABLE.\r\n\r\nYR IS NONREFUNDABLE FOR ALL FARES.\r\n\r\nIN CASES OF NOSHOW CHARGE NO SHOW FEE OF USD100\r\nAND CANCELLATION FEE OF USD200 FOR CANCEL.\r\n\r\nFOR ANY CANCELLATIONS THE STRICTER FARE\r\nCONDITIONS WILL APPLY TO THE ENTIRE JOURNEY.\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ],
+                    [
+                        27,
+                        56,
+                        "CHARGE_CANCEL"
+                    ],
+                    [
+                        463,
+                        491,
+                        "CHARGE_NOSHOW"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nCHARGE USD 200.00 FOR CANCEL.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n\r\nFOR ALL JOURNEYS BEFORE or AFTER FIRST FLIGHT\r\nDEPARTURE  USD200\r\n\r\nAPPLICABLE FEES ARE TO BE CONVERTED INTO\r\nLOCAL CURRENCY AT THE BANKERS SELLING RATE.\r\n\r\nFEES ARE NOT APPLICABLE FOR INFANT WITHOUT A SEAT\r\n\r\nIN CASE OF TICKET UPGRADE THE ORIGINAL\r\nNONREFUNDABLE AMOUNT REMAINS NONREFUNDABLE.\r\n\r\nYR IS NONREFUNDABLE FOR ALL FARES.\r\n\r\nIN CASES OF NOSHOW CHARGE NO SHOW FEE OF USD100\r\nAND CANCELLATION FEE OF USD200 FOR CANCEL.\r\n\r\nFOR ANY CANCELLATIONS THE STRICTER FARE\r\nCONDITIONS WILL APPLY TO THE ENTIRE JOURNEY.\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ],
+                    [
+                        27,
+                        56,
+                        "CHARGE_CANCEL"
+                    ],
+                    [
+                        463,
+                        491,
+                        "CHARGE_NOSHOW"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nTICKET IS NONREFUNDABLE IN CASE OF NOSHOW.\r\nBEFORE DEPARTURE\r\nTICKET IS NONREFUNDABLE IN CASE OF CANCEL or REFUND.\r\nAFTER DEPARTURE\r\nTICKET IS NONREFUNDABLE IN CASE OF CANCEL or REFUND.\r\n",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\nNOTA 1 or  or THE NONREFUNDABLE AMOUNT MAY BE USED AS\r\nCREDIT TOWARDS PAYMENT OF A HIGHER APPLICABLE\r\nFARE.\r\nNOTA 2 or  or REEMBOLSO POR CAUSAS NO IMPUTABLES A LA\r\nCOMPANIA\r\nDECESO DE PASAJERO  or  or VER MANUAL COMERCIAL 13.8\r\nDECESO DE FLIAR DIRECTO DE UN PASAJERO or  or SE\r\nCONTEMPLA EN CASO DE PRODUCIRSE DENTRO DE LAS\r\n48HS DE LA FECHA DE VUELO Y CON PRESENTACION\r\nDE DOCUMENTACION PROBATORIA DEL VINCULO.\r\n\r\nCancellations are not refundable, but may be used as a credit towards payment of a higher applicable fare. Waived for death of passenger or family member.\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\nNOTA 1 or  or THE NONREFUNDABLE AMOUNT MAY BE USED AS\r\nCREDIT TOWARDS PAYMENT OF A HIGHER APPLICABLE\r\nFARE.\r\nNOTA 2 or  or REEMBOLSO POR CAUSAS NO IMPUTABLES A LA\r\nCOMPANIA\r\nDECESO DE PASAJERO  or  or VER MANUAL COMERCIAL 13.8\r\nDECESO DE FLIAR DIRECTO DE UN PASAJERO or  or SE\r\nCONTEMPLA EN CASO DE PRODUCIRSE DENTRO DE LAS\r\n48HS DE LA FECHA DE VUELO Y CON PRESENTACION\r\nDE DOCUMENTACION PROBATORIA DEL VINCULO.\r\n\r\nCancellations are not refundable, but may be used as a credit towards payment of a higher applicable fare. Waived for death of passenger or family member.\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nCANCELLATIONS PERMITTED FOR CANCEL REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\nNOTA 1  THE NONREFUNDABLE AMOUNT MAY BE USED AS\r\nCREDIT TOWARDS PAYMENT OF A HIGHER APPLICABLE\r\nFARE.\r\nNOTA 2  REEMBOLSO POR CAUSAS NO IMPUTABLES A LA\r\nCOMPANIA\r\nDECESO DE PASAJERO   VER MANUAL COMERCIAL 13.8\r\nDECESO DE FLIAR DIRECTO DE UN PASAJERO  SE\r\nCONTEMPLA EN CASO DE PRODUCIRSE DENTRO DE LOS\r\n30DIAS DE LA FECHA DE VUELO Y CON PRESENTACION\r\nDE DOCUMENTACION PROBATORIA DEL VINCULO.\r\nANY TIME\r\nCANCELLATIONS PERMITTED FOR NOSHOW.\r\n\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ],
+                    [
+                        560,
+                        583,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS ANY TIME CANCELLATIONS PERMITTED FOR CANCEL or REFUND. WAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER. NOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING. NOTA 1 or  or THE NONREFUNDABLE AMOUNT MAY BE USED AS CREDIT TOWARDS PAYMENT OF A HIGHER APPLICABLE FARE. NOTA 2 or  or REEMBOLSO POR CAUSAS NO IMPUTABLES A LA COMPANIA DECESO DE PASAJERO  or  or VER MANUAL COMERCIAL 13.8 DECESO DE FLIAR DIRECTO DE UN PASAJERO or  or SE CONTEMPLA EN CASO DE PRODUCIRSE DENTRO DE LOS 30DIAS DE LA FECHA DE VUELO Y CON PRESENTACION DE DOCUMENTACION PROBATORIA DEL VINCULO. ANY TIME CANCELLATIONS PERMITTED FOR NOSHOW.\r\n",
+            {
+                "entities": [
+                    [
+                        31,
+                        53,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS ANY TIME CANCELLATIONS PERMITTED FOR CANCEL or REFUND. WAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER. NOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING. NOTA 1 or  or THE NONREFUNDABLE AMOUNT MAY BE USED AS CREDIT TOWARDS PAYMENT OF A HIGHER APPLICABLE FARE. NOTA 2 or  or REEMBOLSO POR CAUSAS NO IMPUTABLES A LA COMPANIA DECESO DE PASAJERO  or  or VER MANUAL COMERCIAL 13.8 DECESO DE FLIAR DIRECTO DE UN PASAJERO or  or SE CONTEMPLA EN CASO DE PRODUCIRSE DENTRO DE LOS 30DIAS DE LA FECHA DE VUELO Y CON PRESENTACION DE DOCUMENTACION PROBATORIA DEL VINCULO. ANY TIME CANCELLATIONS PERMITTED FOR NOSHOW.\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        53,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n  \r\nREFUND RULES APPLY PER FARE COMPONENT.\r\nWHEN COMBINING REFUNDABLE FARES WITH NON\r\nREFUNDABLE FARES PROVISIONS WILL APPLY AS FOLLOWS\r\n THE AMOUNT PAID ON THE REFUNDABLE FARE\r\nCOMPONENT WILL BE REFUNDED UPON PAYMENT OF THE\r\nPENALTY AMOUNT IF APPLICABLE.\r\n THE AMOUNT PAID ON THE NON REFUNDABLE FARE\r\nCOMPONENT WILL NOT BE REFUNDED.\r\n WHEN COMBINING FARES CHARGE THE SUM OF THE\r\nCANCELLATION FEES OF ALL CANCELLED FARE\r\nCOMPONENTS.\r\n  \r\n\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS ANY TIME CHARGE USD 300.00 FOR CANCEL. NOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.  FOR ALL JOURNEYS BEFORE or AFTER FIRST FLIGHT DEPARTURE  USD300  APPLICABLE FEES ARE TO BE CONVERTED INTO LOCAL CURRENCY AT THE BANKERS SELLING RATE.  FEES ARE NOT APPLICABLE FOR INFANT WITHOUT A SEAT  IN CASE OF TICKET UPGRADE THE ORIGINAL NONREFUNDABLE AMOUNT REMAINS NONREFUNDABLE.  YR IS NONREFUNDABLE FOR ALL FARES.  IN CASES OF NOSHOW CHARGE NO SHOW FEE OF USD300 AND CANCELLATION FEE OF USD300 FOR CANCEL.  FOR ANY CANCELLATIONS THE STRICTER FARE CONDITIONS WILL APPLY TO THE ENTIRE JOURNEY.\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        39,
+                        "CANCELLATION_TIME"
+                    ],
+                    [
+                        40,
+                        69,
+                        "CHARGE_CANCEL"
+                    ],
+                    [
+                        460,
+                        488,
+                        "CHARGE_NOSHOW"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS ANY TIME CHARGE USD 300.00 FOR CANCEL. NOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.  FOR ALL JOURNEYS BEFORE or AFTER FIRST FLIGHT DEPARTURE  USD300  APPLICABLE FEES ARE TO BE CONVERTED INTO LOCAL CURRENCY AT THE BANKERS SELLING RATE.  FEES ARE NOT APPLICABLE FOR INFANT WITHOUT A SEAT  IN CASE OF TICKET UPGRADE THE ORIGINAL NONREFUNDABLE AMOUNT REMAINS NONREFUNDABLE.  YR IS NONREFUNDABLE FOR ALL FARES.  IN CASES OF NOSHOW CHARGE NO SHOW FEE OF USD300 AND CANCELLATION FEE OF USD300 FOR CANCEL.  FOR ANY CANCELLATIONS THE STRICTER FARE CONDITIONS WILL APPLY TO THE ENTIRE JOURNEY.\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        39,
+                        "CANCELLATION_TIME"
+                    ],
+                    [
+                        40,
+                        69,
+                        "CHARGE_CANCEL"
+                    ],
+                    [
+                        460,
+                        488,
+                        "CHARGE_NOSHOW"
+                    ],
+                    [
+                        513,
+                        531,
+                        "CHARGE_CANCEL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nBEFORE DEPARTURE\r\nCHARGE 70 PERCENT FOR REFUND.\r\nBEFORE DEPARTURE\r\nTICKET IS NONREFUNDABLE IN CASE OF NOSHOW.\r\nAFTER DEPARTURE\r\nTICKET IS NONREFUNDABLE.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n  \r\nREFUND MUST BE COMPLETED BEFORE DEPARTURE TIME OF\r\nTHE 1ST OUTBOUND FLIGHT OF THE JOURNEY OTHERWISE\r\nIT WILL BE CONSIDERED NO SHOW AND SUCH\r\nPENALTY RESTRICTION WILL APPLY.\r\n  \r\nREFUND RULES APPLY PER FARE COMPONENT.\r\nWHEN COMBINING REFUNDABLE FARES WITH NON\r\nREFUNDABLE FARES PROVISIONS WILL APPLY AS\r\nFOLLOWS\r\n THE AMOUNT PAID ON THE REFUNDABLE FARE\r\nCOMPONENT WILL BE REFUNDED UPON PAYMENT OF THE\r\nPENALTY AMOUNT IF APPLICABLE.\r\n THE AMOUNT PAID ON THE NON REFUNDABLE FARE\r\nCOMPONENT WILL NOT BE REFUNDED.\r\n WHEN COMBINING FARES CHARGE THE SUM OF THE\r\nCANCELLATION FEES OF ALL CANCELLED FARE\r\nCOMPONENTS.\r\n  \r\nORIGINATING NORTH AMERICA \r\n\r\n\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        33,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE IN CASE OF CANCEL or REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE IN CASE OF CANCEL or REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n  \r\nREFUND RULES APPLY PER FARE COMPONENT.\r\nWHEN COMBINING REFUNDABLE FARES WITH NON\r\nREFUNDABLE FARES PROVISIONS WILL APPLY AS FOLLOWS\r\n THE AMOUNT PAID ON THE REFUNDABLE FARE\r\nCOMPONENT WILL BE REFUNDED UPON PAYMENT OF THE\r\nPENALTY AMOUNT IF APPLICABLE.\r\n THE AMOUNT PAID ON THE NON REFUNDABLE FARE\r\nCOMPONENT WILL NOT BE REFUNDED.\r\n WHEN COMBINING FARES CHARGE THE SUM OF THE\r\nCANCELLATION FEES OF ALL CANCELLED FARE\r\nCOMPONENTS.\r\n  \r\n\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE IN CASE OF CANCEL or REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        40,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE IN CASE OF CANCEL or REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        40,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n  \r\nREFUND RULES APPLY PER FARE COMPONENT.\r\nWHEN COMBINING REFUNDABLE FARES WITH NON\r\nREFUNDABLE FARES PROVISIONS WILL APPLY AS FOLLOWS\r\n THE AMOUNT PAID ON THE REFUNDABLE FARE\r\nCOMPONENT WILL BE REFUNDED UPON PAYMENT OF THE\r\nPENALTY AMOUNT IF APPLICABLE.\r\n THE AMOUNT PAID ON THE NON REFUNDABLE FARE\r\nCOMPONENT WILL NOT BE REFUNDED.\r\n WHEN COMBINING FARES CHARGE THE SUM OF THE\r\nCANCELLATION FEES OF ALL CANCELLED FARE\r\nCOMPONENTS.\r\n  \r\n\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE IN CASE OF CANCEL or REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nANY TIME\r\nTICKET IS NONREFUNDABLE IN CASE OF CANCEL or REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\n",
+            {
+                "entities": [
+                    [
+                        2,
+                        25,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS\r\nANY TIME\r\nCANCELLATIONS PERMITTED FOR CANCEL or REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\nNOTA 1 or  or THE NONREFUNDABLE AMOUNT MAY BE USED AS\r\nCREDIT TOWARDS PAYMENT OF A HIGHER APPLICABLE\r\nFARE.\r\nNOTA 2 or  or REEMBOLSO POR CAUSAS NO IMPUTABLES A LA\r\nCOMPANIA\r\nDECESO DE PASAJERO  or  or VER MANUAL COMERCIAL 13.8\r\nDECESO DE FLIAR DIRECTO DE UN PASAJERO or  or SE\r\nCONTEMPLA EN CASO DE PRODUCIRSE DENTRO DE LOS\r\n30DIAS DE LA FECHA DE VUELO Y CON PRESENTACION\r\nDE DOCUMENTACION PROBATORIA DEL VINCULO.\r\nANY TIME\r\nCANCELLATIONS PERMITTED FOR NOSHOW.\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        40,
+                        "CANCELLATION_TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS\r\nANY TIME\r\nCANCELLATIONS PERMITTED FOR CANCEL or REFUND.\r\nWAIVED FOR DEATH OF PASSENGER OR FAMILY MEMBER.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\nNOTA 1 or  or THE NONREFUNDABLE AMOUNT MAY BE USED AS\r\nCREDIT TOWARDS PAYMENT OF A HIGHER APPLICABLE\r\nFARE.\r\nNOTA 2 or  or REEMBOLSO POR CAUSAS NO IMPUTABLES A LA\r\nCOMPANIA\r\nDECESO DE PASAJERO  or  or VER MANUAL COMERCIAL 13.8\r\nDECESO DE FLIAR DIRECTO DE UN PASAJERO or  or SE\r\nCONTEMPLA EN CASO DE PRODUCIRSE DENTRO DE LOS\r\n30DIAS DE LA FECHA DE VUELO Y CON PRESENTACION\r\nDE DOCUMENTACION PROBATORIA DEL VINCULO.\r\nANY TIME\r\nCANCELLATIONS PERMITTED FOR NOSHOW.\r\n",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS\r\nANY TIME\r\nCHARGE USD 300.00 FOR CANCEL.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n\r\nFOR ALL JOURNEYS BEFORE or AFTER FIRST FLIGHT\r\nDEPARTURE  USD300\r\n\r\nAPPLICABLE FEES ARE TO BE CONVERTED INTO\r\nLOCAL CURRENCY AT THE BANKERS SELLING RATE.\r\n\r\nFEES ARE NOT APPLICABLE FOR INFANT WITHOUT A SEAT\r\n\r\nIN CASE OF TICKET UPGRADE THE ORIGINAL\r\nNONREFUNDABLE AMOUNT REMAINS NONREFUNDABLE.\r\n\r\nYR IS NONREFUNDABLE FOR ALL FARES.\r\n\r\nIN CASES OF NOSHOW CHARGE NO SHOW FEE OF USD300\r\nAND CANCELLATION FEE OF USD300 FOR CANCEL.\r\n\r\nFOR ANY CANCELLATIONS THE STRICTER FARE\r\nCONDITIONS WILL APPLY TO THE ENTIRE JOURNEY.\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        40,
+                        "CANCELLATION_TIME"
+                    ],
+                    [
+                        42,
+                        71,
+                        "CHARGE_CANCEL"
+                    ],
+                    [
+                        471,
+                        506,
+                        "CHARGE_NOSHOW"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\r\nCANCELLATIONS\r\nCANCELLATIONS\r\nANY TIME\r\nCHARGE USD 300.00 FOR CANCEL.\r\nNOTE  TEXT BELOW NOT VALIDATED FOR AUTOPRICING.\r\n\r\nFOR ALL JOURNEYS BEFORE or AFTER FIRST FLIGHT\r\nDEPARTURE  USD300\r\n\r\nAPPLICABLE FEES ARE TO BE CONVERTED INTO\r\nLOCAL CURRENCY AT THE BANKERS SELLING RATE.\r\n\r\nFEES ARE NOT APPLICABLE FOR INFANT WITHOUT A SEAT\r\n\r\nIN CASE OF TICKET UPGRADE THE ORIGINAL\r\nNONREFUNDABLE AMOUNT REMAINS NONREFUNDABLE.\r\n\r\nYR IS NONREFUNDABLE FOR ALL FARES.\r\n\r\nIN CASES OF NOSHOW CHARGE NO SHOW FEE OF USD300\r\nAND CANCELLATION FEE OF USD300 FOR CANCEL.\r\n\r\nFOR ANY CANCELLATIONS THE STRICTER FARE\r\nCONDITIONS WILL APPLY TO THE ENTIRE JOURNEY.\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        48,
+                        "CANCELLATION_TIME"
+                    ],
+                    [
+                        49,
+                        71,
+                        "CHARGE_CANCEL"
+                    ],
+                    [
+                        478,
+                        506,
+                        "CHARGE_NOSHOW"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
