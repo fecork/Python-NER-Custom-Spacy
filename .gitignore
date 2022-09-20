@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 
-data/07_model_output**
+data/07_model_output/**
