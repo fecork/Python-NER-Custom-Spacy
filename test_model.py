@@ -1,4 +1,3 @@
-from pydoc import doc
 import spacy
 
 nlp_ner = spacy.load("data/07_model_output/model-best")
